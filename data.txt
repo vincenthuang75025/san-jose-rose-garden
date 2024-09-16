@@ -1,0 +1,156 @@
+1 Tree Roses
+2 Moondance
+3 Canadian White Star
+4 Walking on Sunshine
+5 Violets Pride
+6 Icecap
+7 Koko Loko
+8 Apricots N Crème
+9 Grande Dame
+10 Sugar Moon
+11 Europeana
+12 Chihuly
+13 Ingrid Bergman
+14 Olympiad
+15 Autumn Gold
+16 Love Song
+17 Smokin Hot
+18 Montezuma
+19 Easy to Please
+20 Pat Dando Texas Rose
+21 Mother of Pearl
+22 Whisper
+23 Cinnamon Dolce
+24 Lasting Love
+25 Marijke Koopman
+26 Midas Touch
+27 Parade Day
+28 Peter Mayle
+29 Gold Struck
+30 Rainbow Knockout
+31 Shockwave
+32 Fragrant Cloud
+33 Frida Kahlo
+34 White Licorice
+35 Betty Boop
+36 Marmalade Skies
+37 Chrysler Imperial
+38 Take it Easy
+39 Colorific
+40 Honey Perfume
+41 Queen Elizabeth
+42 Doris Day
+43 Jump for Joy
+44 Strike it Rich
+45 Memorial Day 
+46 Carefree Delight
+47 All Dressed Up
+48 Hot Cocoa
+49 Francis Meilland
+50 Various Tree Roses
+51 Rainbow Home Run
+52 Ketchup and Mustard
+53 Love
+54 Honor
+55 Scentimental
+56 Precious Platinum
+57 Twilight Zone
+58 Iceberg
+59 Wild Blue Yonder
+60 Rainbow Sorbet
+61 Julia Child
+62 Cinco de Mayo
+63 Sweet Surrender
+64 Dee-Lish
+65 Secret
+66 Dick Clark
+67 Sparkle & Shine
+68 Life of the Party
+69 All Loving
+70 Proud Land
+71 Mardigras
+72 Double Delight
+73 Friendship
+74 Summer Dream
+75 Neptune
+76 Home Run
+77 Perfect Moment
+78 Good as Gold
+79 Easy Spirit
+80 Stephens Big Purple
+81 Happy Go Lucky
+82 Test Roses
+83 Myles of Smiles
+84 Pristine / Trees
+85 Color Magic / Trees
+86 Cecile Brunner
+87 Celebrity
+88 Brandy
+89 Pretty Lady Rose
+90 Ellé
+91 Sheer Elegance
+92 Artistry
+93 Loeta Ligget
+94 Tequila Supreme
+95 Pink Promise
+96 Passionate Kisses
+97 Mr. Lincoln
+98 Teasing Georgia
+99 Abraham Darby
+100 Daydream
+101 Drop Dead Red
+102 Water Colors
+103 Shelias Perfume
+104 Love & Peace
+105 Paris De Yves St. Laurent
+106 Fired-Up!
+107 Tangerine Streams
+108 Ch-Ching
+109 Brass Band
+110 Coretta Scott King
+111 White Delight
+112 Peace
+113 Grootendorst Red
+114 Julio Iglesias
+115 Daybreaker
+116 Pink Flamingo
+117 Melody Pafumée
+118 Miss Congeniality
+119 Hot Tamale
+120 Carefree Spirit
+121 Be My Baby
+122 Fame!
+123 Neil Diamond
+124 Crescendo
+125 Smooth Lady
+126 Nicole
+127 Mikado
+128 Simplicity
+129 Pumpkin Patch
+130 Tineke
+131 Falling in Love
+132 About Face
+133 Wing-Ding
+134 Gourmet Popcorn
+135 Topsy Turvy
+136 Best Kept Secret
+137 Classic Touch
+138 Paradise Found
+139 In the Mood
+140 Gemini
+141 Mercury Rising
+142 Impatient
+143 Cherry Parfait
+144 Limoncello
+145 Lady Elsie May
+146 Knockout
+147 First Light
+148 Crimson Bouquet
+149 Pink Home Run
+150 Carefree Beauty
+151 Sunset Celebration
+152 Eureka
+153 Phloxy Baby
+154 Pinkerbelle
+155 All That Jazz
+156 Bonica 
